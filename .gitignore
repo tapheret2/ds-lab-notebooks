@@ -2,3 +2,14 @@ experiments/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
+.DS_Store
+*.log
